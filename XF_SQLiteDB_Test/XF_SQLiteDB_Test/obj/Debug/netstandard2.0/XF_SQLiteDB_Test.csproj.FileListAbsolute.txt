@@ -1,0 +1,15 @@
+D:\idekhail\Xamarin.Forms\Evenning\XF_SQLiteDB_Test\XF_SQLiteDB_Test\XF_SQLiteDB_Test\obj\Debug\netstandard2.0\XF_SQLiteDB_Test.csproj.AssemblyReference.cache
+D:\idekhail\Xamarin.Forms\Evenning\XF_SQLiteDB_Test\XF_SQLiteDB_Test\XF_SQLiteDB_Test\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\idekhail\Xamarin.Forms\Evenning\XF_SQLiteDB_Test\XF_SQLiteDB_Test\XF_SQLiteDB_Test\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\idekhail\Xamarin.Forms\Evenning\XF_SQLiteDB_Test\XF_SQLiteDB_Test\XF_SQLiteDB_Test\obj\Debug\netstandard2.0\XF_SQLiteDB_Test.AssemblyInfoInputs.cache
+D:\idekhail\Xamarin.Forms\Evenning\XF_SQLiteDB_Test\XF_SQLiteDB_Test\XF_SQLiteDB_Test\obj\Debug\netstandard2.0\XF_SQLiteDB_Test.AssemblyInfo.cs
+D:\idekhail\Xamarin.Forms\Evenning\XF_SQLiteDB_Test\XF_SQLiteDB_Test\XF_SQLiteDB_Test\obj\Debug\netstandard2.0\XF_SQLiteDB_Test.csproj.CoreCompileInputs.cache
+D:\idekhail\Xamarin.Forms\Evenning\XF_SQLiteDB_Test\XF_SQLiteDB_Test\XF_SQLiteDB_Test\obj\Debug\netstandard2.0\XF_SQLiteDB_Test.dll
+D:\idekhail\Xamarin.Forms\Evenning\XF_SQLiteDB_Test\XF_SQLiteDB_Test\XF_SQLiteDB_Test\obj\Debug\netstandard2.0\ref\XF_SQLiteDB_Test.dll
+D:\idekhail\Xamarin.Forms\Evenning\XF_SQLiteDB_Test\XF_SQLiteDB_Test\XF_SQLiteDB_Test\obj\Debug\netstandard2.0\XF_SQLiteDB_Test.pdb
+D:\idekhail\Xamarin.Forms\Evenning\XF_SQLiteDB_Test\XF_SQLiteDB_Test\XF_SQLiteDB_Test\bin\Debug\netstandard2.0\XF_SQLiteDB_Test.deps.json
+D:\idekhail\Xamarin.Forms\Evenning\XF_SQLiteDB_Test\XF_SQLiteDB_Test\XF_SQLiteDB_Test\bin\Debug\netstandard2.0\XF_SQLiteDB_Test.dll
+D:\idekhail\Xamarin.Forms\Evenning\XF_SQLiteDB_Test\XF_SQLiteDB_Test\XF_SQLiteDB_Test\bin\Debug\netstandard2.0\ref\XF_SQLiteDB_Test.dll
+D:\idekhail\Xamarin.Forms\Evenning\XF_SQLiteDB_Test\XF_SQLiteDB_Test\XF_SQLiteDB_Test\bin\Debug\netstandard2.0\XF_SQLiteDB_Test.pdb
+D:\idekhail\Xamarin.Forms\Evenning\XF_SQLiteDB_Test\XF_SQLiteDB_Test\XF_SQLiteDB_Test\obj\Debug\netstandard2.0\XamlC.stamp
+D:\idekhail\Xamarin.Forms\Evenning\XF_SQLiteDB_Test\XF_SQLiteDB_Test\XF_SQLiteDB_Test\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
